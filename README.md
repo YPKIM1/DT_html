@@ -11,19 +11,19 @@
 
 - Style 지정 방법
   - Head 부분에서 설정 가능
- ```HTML
-body{
-  background-color : gray;
-  margin : 2%;
-  padding : 1.5%;
-}
-```
-  -  class, ID 지정할 경우
-```HTML
-.name{
-  text-align : center;
-}
-#date{
-  font-size : 15px;
-}
-```
+   ``` HTML
+  body{
+    background-color : gray;
+    margin : 2%;
+    padding : 1.5%;
+  }
+  ```
+  - class, ID 지정할 경우
+  ``` HTML
+  .name{
+    text-align : center;
+  }
+  #date{
+    font-size : 15px;
+  }
+  ```
